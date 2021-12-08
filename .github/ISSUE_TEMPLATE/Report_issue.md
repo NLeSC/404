@@ -1,3 +1,11 @@
+---
+name: Report issue
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
 Hey there and thank you for using Issue Tracker!
 
 Our project, as you've probably heard, is getting really popular and truth is we're getting a bit overwhelmed by the activity surrounding it. There are just too many issues for us to manage properly.
