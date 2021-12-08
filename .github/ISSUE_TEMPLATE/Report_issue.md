@@ -27,3 +27,5 @@ Make sure to add **all the information needed to understand the bug** so that so
 - [ ] What's the **version** of React Native you're using?
 - [ ] Does this occur on iOS, Android or both?
 - [ ] Are you using Mac, Linux or Windows?
+
+<!-- Issue template credits: https://github.com/stevemao/github-issue-templates/tree/master/must-open-issue-before-pr -->

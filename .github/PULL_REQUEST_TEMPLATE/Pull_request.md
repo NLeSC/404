@@ -1,6 +1,6 @@
 ---
-name: Report issue
-about: Create a report to help us improve
+name: Create a pull request
+about: Suggest a contribution to help us improve
 title: ''
 labels: ''
 assignees: ''
@@ -31,3 +31,5 @@ Demonstrate the code is solid. Example: The exact commands you ran and their out
 **Closing issues**
 
 Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
+
+<!-- Issue template credits: https://github.com/stevemao/github-issue-templates/tree/master/must-open-issue-before-pr -->
